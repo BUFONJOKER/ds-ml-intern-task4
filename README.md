@@ -1,5 +1,8 @@
+# [Live app](https://abdulrehman-ds-ml-task4.streamlit.app/)
+
+
+
 # 🛒 Walmart Sales Forecasting Dashboard
-[Live app](https://abdulrehman-ds-ml-task4.streamlit.app/)
 
 ## 📌 Overview
 Interactive Streamlit app to forecast weekly sales for Walmart stores/departments using a pre-trained LightGBM model. Predictions use economic indicators (CPI, Unemployment, Fuel Price) and temporal features. The dashboard includes KPIs, interactive visualizations, and SHAP-based explainability.
